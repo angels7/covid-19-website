@@ -56,7 +56,7 @@ function PublicAdvice() {
             </div>
 
             <div className="container mt-5 mb-5 pt-5 pb-5">
-                <h1 className="text-center display-4 mb-5">How to cope with stress during 2020-nCoV</h1>
+                <h1 className="text-center display-4 mb-5">How to cope with stress during 2019-nCoV</h1>
                 <div className="row mt-5">
                     <div className="col-md-6">
                         <img src={stress}/>
