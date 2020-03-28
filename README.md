@@ -1,4 +1,5 @@
 # covid-19-website
+Get the latest covid19 data worldwide and by country.
 
 ## Available Scripts
 
